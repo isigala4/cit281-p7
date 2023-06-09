@@ -30,7 +30,13 @@ Part 2. Completed Lab 9
 
 Part 3. Create Main GitHub Page
 
+<img width="1155" alt="Screenshot 2023-06-08 at 6 48 55 PM" src="https://github.com/isigala4/cit281-p7/assets/133719793/c8fad7e8-220c-47d2-8823-43c521e155be">
+
+
 Part 4. Create Lab and Project repos
+
+<img width="187" alt="Screenshot 2023-06-08 at 6 53 10 PM" src="https://github.com/isigala4/cit281-p7/assets/133719793/c24f2e4c-620c-4573-98d1-8fa6f2785315">
+
 
 Part 5. Enable GitHub Page for each lab and project
 
